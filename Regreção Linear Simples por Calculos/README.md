@@ -1,7 +1,7 @@
 # 🏡 Previsão de Preço de Casas com Regressão Linear
 
 ## 📌 Sobre o Projeto
-Este projeto utiliza regressão linear simples para prever o preço de uma casa com base em sua área. O modelo é construído a partir de um conjunto de dados fictício e calcula os coeficientes da equação de regressão linear.
+Este projeto utiliza regressão linear simples para prever o preço de uma casa. O modelo é construído a partir de um conjunto de dados fictício e calcula os coeficientes da equação de regressão linear.
 
 ## ⚙️ Como Funciona
 
