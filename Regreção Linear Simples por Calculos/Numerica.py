@@ -1,5 +1,6 @@
 '''
-Formula da Regressão Linear:
+Formula da Regressão Linear Numérica:
+
 Y = A * X + B
 
 Onde:
