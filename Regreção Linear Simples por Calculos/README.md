@@ -11,7 +11,7 @@ A equação da regressão linear é calculada manualmente usando as fórmulas ma
 
 O modelo prevê os preços e calcula métricas de erro, como MAE, MSE, RMSE e R².
 
-O usuário pode inserir uma área desejada para prever o preço estimado.
+O usuário pode inserir os dados desejados para prever o preço estimado.
 
 Um gráfico exibe os dados reais, a linha de regressão e os erros.
 
