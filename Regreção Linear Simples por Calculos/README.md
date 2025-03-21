@@ -25,7 +25,7 @@ Instale as dependências listadas no arquivo requirements.txt:
 
 Execute o script Python:
 
-    python regressao.py
+    python nome_do_aquivo.py
     
 Informe a área da casa quando solicitado e veja o preço previsto.
 
