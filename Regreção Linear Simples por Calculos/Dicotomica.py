@@ -10,7 +10,6 @@ Y: é o preço da casa (variável dependente).
 D: é a variável dicotômica (0 ou 1).
 𝛽0: é o intercepto (o preço médio quando D = 0, ou seja, "Ruim").
 𝛽1: é o coeficiente da variável dummy (quanto o preço muda quando D = 1, ou seja, "Bom").
-ε: é o erro.
 
 β1 = (∑(Di - μD) * (Yi - μY)) / (∑(Di - D)^2)
 
