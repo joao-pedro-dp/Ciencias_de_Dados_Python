@@ -15,8 +15,8 @@ D1: 1 se a observação é de nível "médio" e D1 = 0 caso contrário.
 D2: 1 se a observação é de nível "alto" e D2 = 0 caso contrário.
 A categoria "baixo" será o grupo de referência (ou seja, quando D1 e D2 = 0.
 𝛽0: é o intercepto (o preço médio quando D = 0, ou seja, "Ruim").
-𝛽1: é o coeficiente da variável dummy (quanto o preço muda quando D = 1, ou seja, "Bom").
-𝛽2: é o coeficiente da variável dummy (quanto o preço muda quando D = 1, ou seja, "Bom").
+𝛽1: é o coeficiente da variável dummy (quanto o preço muda quando D1 = 1, ou seja, "Médio").
+𝛽2: é o coeficiente da variável dummy (quanto o preço muda quando D2 = 1, ou seja, "Alto").
 
 β1 = (∑(Di1 - μD1) * (Yi - μY)) / (∑(Di1 - D1)^2)
 
