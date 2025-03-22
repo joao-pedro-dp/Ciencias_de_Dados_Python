@@ -28,7 +28,6 @@ RMSE = sqrt( (1/M) * Σ (Yi - Ŷi)^2 )
 R² = 1 - (Σ (Yi - Ŷi)^2 / Σ (Yi - μY)^2)
 
 Onde:
-
 M: é o número de observações,
 Yi: são os valores reais,
 Ŷi: são os valores previstos pelo modelo.
