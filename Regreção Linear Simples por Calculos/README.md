@@ -27,7 +27,7 @@ Execute o script Python:
 
     python nome_do_aquivo.py
     
-Informe a área da casa quando solicitado e veja o preço previsto.
+Informe os dados quando solicitado e veja o preço previsto.
 
 ## Autor
 
