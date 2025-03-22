@@ -1,7 +1,9 @@
 '''
 Formula da Regressão Linear Dicotômica:
 
-Y = β0 + β1 * D + ε
+Basicamente,a formula é quase idêntica à numérica; no entanto, deve-se criar uma coluna transformando os valores booleanos em 1 e 0 para usá-los na fórmula.
+
+Y = β0 + β1 * D 
 
 Onde:
 Y: é o preço da casa (variável dependente).
